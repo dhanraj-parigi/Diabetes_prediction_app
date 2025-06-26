@@ -45,32 +45,18 @@ Built with **Python**, **Scikit-Learn**, **Streamlit**, and **Jupyter Notebook**
 
 ## 🖥️ Screenshots
 
-*(Add your screenshots inside the `/images` folder and link here)*
+![Screenshot 2025-06-26 061626](https://github.com/user-attachments/assets/f2e9c044-aef5-4af4-a55b-bb89c351cbc3)
+![Screenshot 2025-06-26 061626](https://github.com/user-attachments/assets/f2e9c044-aef5-4af4-a55b-bb89c351cbc3)
+
 
 ---
-
-## 📁 Project Structure
-
-           diabetes-prediction-app/
-├── data/ # Dataset CSV file
-├── notebook/ # Jupyter notebook for training & EDA
-├── model/ # Saved model (.pkl) and scaler
-├── app/ # Streamlit app script
-├── images/ # (Optional) Screenshots and charts
-├── requirements.txt # Required packages
-├── README.md # You're reading it :)
-└── .gitignore # Files to ignore in Git
-
-
-
-
 
 ---
 
 ## 📦 Installation & Run
 
 1. **Clone the repo**  
-```bash
+``bash
 git clone https://github.com/your-username/diabetes-prediction-app.git
 cd diabetes-prediction-app
 
@@ -78,12 +64,14 @@ cd diabetes-prediction-app
 
        pip install -r requirements.txt
 
-3. Run the app
+3. **Run the app**
       streamlit run app/diabetes_app.py
 
 
+----
 🤝 Contributing
 Pull requests are welcome! Feel free to fork and enhance.
+
 
 📜 License
 This project is licensed under the MIT License.
@@ -99,7 +87,7 @@ This project is licensed under the MIT License.
 3. (Optional) Add **screenshots** of your Streamlit app in the `/images` folder.
 4. Commit and push:
 
-```bash
+
 git add README.md
 git commit -m "Added professional README"
 git push
