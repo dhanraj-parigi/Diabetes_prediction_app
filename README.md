@@ -50,6 +50,9 @@ Built with **Python**, **Scikit-Learn**, **Streamlit**, and **Jupyter Notebook**
 ![Screenshot 2025-06-26 061707](https://github.com/user-attachments/assets/cc0dd723-3b7c-40e7-8502-aa0b128530c2)
 
 
+
+
+
 ![Screenshot 2025-06-26 061626](https://github.com/user-attachments/assets/f2e9c044-aef5-4af4-a55b-bb89c351cbc3)
 
 
